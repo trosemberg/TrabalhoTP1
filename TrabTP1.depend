@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1505087612 source:c:\users\user\desktop\exemplos de códigos\oi\trabtp1\main.cpp
+	<iostream>
+	<cstring>
+	"entidades.h"
+	"testes.h"
+
+1505088321 source:c:\users\user\desktop\exemplos de códigos\oi\trabtp1\testes.cpp
+	"testes.h"
+
+1505087612 c:\users\user\desktop\exemplos de códigos\oi\trabtp1\testes.h
+	"dominios.h"
+
+1505088270 source:c:\users\user\desktop\exemplos de códigos\oi\trabtp1\dominios.cpp
+	"dominios.h"
+	<iostream>
+
+1505087913 c:\users\user\desktop\exemplos de códigos\oi\trabtp1\dominios.h
+	<stdexcept>
+	<string>
+
+1504901864 source:c:\users\user\desktop\exemplos de códigos\oi\trabtp1\entidades.cpp
+	"entidades.h"
+
+1504985880 c:\users\user\desktop\exemplos de códigos\oi\trabtp1\entidades.h
+	"dominios.h"
+
+1505088482 source:d:\downloads\unb\tp1\trabtp2\dominios.cpp
+	"dominios.h"
+	<iostream>
+
+1505087913 d:\downloads\unb\tp1\trabtp2\dominios.h
+	<stdexcept>
+	<string>
+
+1504901864 source:d:\downloads\unb\tp1\trabtp2\entidades.cpp
+	"entidades.h"
+
+1504985880 d:\downloads\unb\tp1\trabtp2\entidades.h
+	"dominios.h"
+
+1505087612 source:d:\downloads\unb\tp1\trabtp2\main.cpp
+	<iostream>
+	<cstring>
+	"entidades.h"
+	"testes.h"
+
+1505087612 d:\downloads\unb\tp1\trabtp2\testes.h
+	"dominios.h"
+
+1505088321 source:d:\downloads\unb\tp1\trabtp2\testes.cpp
+	"testes.h"
+
+1505091865 source:d:\downloads\unb\tp1\trabtp3\dominios.cpp
+	"dominios.h"
+	<iostream>
+
+1505087913 d:\downloads\unb\tp1\trabtp3\dominios.h
+	<stdexcept>
+	<string>
+
+1505315877 source:d:\downloads\unb\tp1\trabtp3\entidades.cpp
+	"entidades.h"
+
+1505317951 d:\downloads\unb\tp1\trabtp3\entidades.h
+	"dominios.h"
+	<stdexcept>
+	<string>
+
+1505313854 source:d:\downloads\unb\tp1\trabtp3\main.cpp
+	<iostream>
+	<cstring>
+	"entidades.h"
+	"testes.h"
+
+1505317402 d:\downloads\unb\tp1\trabtp3\testes.h
+	"dominios.h"
+	"entidades.h"
+	<iostream>
+
+1505315849 source:d:\downloads\unb\tp1\trabtp3\testes.cpp
+	"testes.h"
+
+1505091865 source:c:\users\user\desktop\trabtp1\dominios.cpp
+	"dominios.h"
+	<iostream>
+
+1505349560 c:\users\user\desktop\trabtp1\dominios.h
+	<stdexcept>
+	<string>
+
+1505347089 source:c:\users\user\desktop\trabtp1\entidades.cpp
+	"entidades.h"
+	<iostream>
+
+1506400768 c:\users\user\desktop\trabtp1\entidades.h
+	"dominios.h"
+	<stdexcept>
+	<string>
+
+1505349460 source:c:\users\user\desktop\trabtp1\main.cpp
+	<iostream>
+	<cstring>
+	"entidades.h"
+	"testes.h"
+
+1505349561 c:\users\user\desktop\trabtp1\testes.h
+	"dominios.h"
+	"entidades.h"
+	<iostream>
+
+1506400837 source:c:\users\user\desktop\trabtp1\testes.cpp
+	"testes.h"
+
+1505091865 source:d:\downloads\unb\tp1\trabtp5\dominios.cpp
+	"dominios.h"
+	<iostream>
+
+1505349560 d:\downloads\unb\tp1\trabtp5\dominios.h
+	<stdexcept>
+	<string>
+
+1505347089 source:d:\downloads\unb\tp1\trabtp5\entidades.cpp
+	"entidades.h"
+	<iostream>
+
+1505349560 d:\downloads\unb\tp1\trabtp5\entidades.h
+	"dominios.h"
+	<stdexcept>
+	<string>
+
+1505349460 source:d:\downloads\unb\tp1\trabtp5\main.cpp
+	<iostream>
+	<cstring>
+	"entidades.h"
+	"testes.h"
+
+1505349561 d:\downloads\unb\tp1\trabtp5\testes.h
+	"dominios.h"
+	"entidades.h"
+	<iostream>
+
+1505347019 source:d:\downloads\unb\tp1\trabtp5\testes.cpp
+	"testes.h"
+

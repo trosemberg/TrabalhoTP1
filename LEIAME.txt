@@ -1,0 +1,9 @@
+Alunos:
+Diogo Ferreira Thé Pontes	Matrícula: 16/0117992
+Tomás Rosário Rosemberg		Matrícula: 14/0087567
+
+Diretórios:
+Raiz: Contém os arquivos fonte (.cpp e .h), o executável (TrabTP1.exe) e o arquivo de projeto do CodeBlocks (.cbp)
+bin: Contém o executável gerado pelo CodeBlocks
+html: Contém a documentação em html gerada pelo doxygen. Abrir o arquivo index.html para vizualizá-la
+obj: Arquivos intermediários da compilação gerados pelo CodeBlocks
